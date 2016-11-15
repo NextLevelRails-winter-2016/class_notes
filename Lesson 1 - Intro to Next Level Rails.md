@@ -670,7 +670,7 @@ This wraps up our intro to testing, but don't worry! We'll revisit the Record Ap
 - Join our slack channel
 - Send Shane a DM with your GitHub username
 
-- Follow the tutorial found at the [Rspec website]()
+- Follow the tutorial found at the [Rspec website](http://rspec.info/)
 	- watch each video and follow along in your text editor
 	- Push the finished code to GitHub using the naming convention: `rspec_intro_YOUR_INITIALS_HERE` 	
 - Build a basic calculator with (testing first)
