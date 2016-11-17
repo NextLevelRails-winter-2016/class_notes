@@ -403,12 +403,6 @@ You'll notice here, that for our last 2 specs we've added some `nil` attributes.
 	
 FactoryGirl is deserving of a full class, and we will continue to explore it throughout the course. However, to learn more check out the [Getting Started Docs](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
 
-## Challenge 2 
-
-- Complete steps 3 and 4 of the [`todo_with_rspec`](https://github.com/NextLevelRails-winter-2016/todo_with_rspec) app
-
-### Ffaker
-
 ## Testing Associations
 
 ### Add a user model
