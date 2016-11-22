@@ -1276,17 +1276,15 @@ Capybara has some other features that are very compelling that I will leave for 
 
 Congrats. You've just built an application using Test Driven Development. Yes, there is more to be done, which we will cover in the next class. Just think about how much faster this will increase your speed of development once you have a bit of practice!
 
-## Exercise 1
 
-Build the rest of the `todo_with_rspec` app from our previous class. 
+## Exercise && Homework
 
-<!--### Testing JSON response
-	section on testing JSON
--->
+###**Due 11/28/16**
 
-
-## Homework
-	
+- Complete Steps 3 and 4 on the [todo_with_rspec](https://github.com/NextLevelRails-winter-2016/todo_with_rspec#test-order) app 
+- Read [Mastering Ruby Blocks in Less than 5 minutes](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes)
+	- write a sentence or two about your biggest takeaway
+	- submit through DM on slack
 - continue building blog app you started last week
 	- write a full suite of controller specs
 	- write a feature specs for the following:
