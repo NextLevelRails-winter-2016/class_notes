@@ -41,3 +41,23 @@
 		- Assocations tests
 	- Use the Todo App for inspiration
 	- Write your tests first!
+
+- - - - 
+
+## Lesson 3 - Testing Rails Controllers and Features
+
+###**Due 11/28/16**
+
+- Complete Steps 3 and 4 on the [todo_with_rspec](https://github.com/NextLevelRails-winter-2016/todo_with_rspec#test-order) app 
+- Read [Mastering Ruby Blocks in Less than 5 minutes](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes)
+	- write a sentence or two about your biggest takeaway
+	- submit through DM on slack
+- continue building blog app you started last week
+	- write a full suite of controller specs
+	- write a feature specs for the following:
+		- Index
+		- New Post
+		- Edit/Update Post 
+- Read Avid Grimm's [explanation of Database Cleaner config](http://www.virtuouscode.com/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/)
+	- Pick out 1 part of the configuration and describe your understanding of it. 
+	- Submit through Slack DM 
