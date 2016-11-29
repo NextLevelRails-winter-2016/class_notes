@@ -1,4 +1,4 @@
-## Class 1 - Intro to Rspec
+## Lesson 1 - Intro to Rspec
 
 ###**Due 11/16/16**
 
@@ -61,3 +61,27 @@
 - Read Avid Grimm's [explanation of Database Cleaner config](http://www.virtuouscode.com/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/)
 	- Pick out 1 part of the configuration and describe your understanding of it. 
 	- Submit through Slack DM 
+	
+- - - - 
+
+## Lesson 4 - rspec-mocks, coverage, & Devise
+
+
+###**Due 12/5/16**
+
+- Read [Stubs, Mocks, and Spies](https://about.futurelearn.com/blog/stubs-mocks-spies-rspec/)
+	- follow along with the code examples (optional)
+	- write your own explanation of mocks and stubs
+	- turn in on slack
+
+- Within your blog application
+	- setup code coverage 
+	- destroy your user model
+	- Add a user model with devise
+		- Add back in your User specs  
+		- remember to 
+			- install devise first
+			- drop your database
+			- recreate it	
+	- swap in test doubles where applicable (using Factory Girl)
+	- Add authentication tests
