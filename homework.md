@@ -85,3 +85,27 @@
 			- recreate it	
 	- swap in test doubles where applicable (using Factory Girl)
 	- Add authentication tests
+
+- - - - 
+
+## Lesson 5 - Moving Towards API's - REST, HTTP, cURL, Postman
+
+###**Due 12/7/16**
+
+- Use [JSONPlaceholder](https://jsonplaceholder.typicode.com/) to create a Postman collection that: 
+	- Returns all posts
+	- Returns all posts from a specific user
+	- Returns all todos
+	- Returns a specific todo
+	- Creates a new User 
+	- Creates a new Todo
+	- Submit collection through Slack
+
+###**Due 12/12/16**
+
+- Read [The Joy of cURL](http://www.computerworld.com/article/2992017/operating-systems/the-joy-of-curl.html)
+	- write about 2 takeaways 
+	- turn in on slack 
+- Read [What's CSRF and What Exactly Are We Are Protecting From Forgery?](http://annaershova.github.io/blog/2015/10/25/whats-csrf-and-what-exactly-are-we-are-protecting-from-forgery-in-controllers/)
+	- write about 1 takeaway
+	- turn in on slack 
