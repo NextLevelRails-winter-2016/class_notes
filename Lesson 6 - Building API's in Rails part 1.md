@@ -269,7 +269,7 @@ Awesome! it works!
 
 You may have noticed that we are returning all of the data. What if we only wanted to return: name, priority, and due_date? 
 
-There are a handful of ways that we can display this data correctly.
+There are a [handful of ways](https://www.leighhalliday.com/responding-with-json-in-rails) that we can display this data correctly.
 
 We could use the `to_json` method in our controller. 
 
