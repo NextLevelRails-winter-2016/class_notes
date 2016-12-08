@@ -109,3 +109,28 @@
 - Read [What's CSRF and What Exactly Are We Are Protecting From Forgery?](http://annaershova.github.io/blog/2015/10/25/whats-csrf-and-what-exactly-are-we-are-protecting-from-forgery-in-controllers/)
 	- write about 1 takeaway
 	- turn in on slack 
+
+## Lesson 6 - Building API's in Rails Part 1
+
+###**Due 12/12/16**
+
+- Finish the Restaurant API challenge
+    - Create a repo in our class GitHub using the naming convention `Restaurant_API_YOUR_TEAM_INITIALS_HERE`
+    - each team member should create their own branch
+    - Your API should
+        - have 3 resources
+            - Menu
+            - Items
+            - Orders
+        - The user should be able to browse each menu 
+            - being able to see all items on the menu
+            - place an order
+            - review their order
+        - **extra credit:** 
+            - write model tests
+    - complete the work and push your branch to the repo
+- Read [What is an API in english please](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.lu4u9tx41)
+- Read [To Serialize or not to Serialize](http://vaidehijoshi.github.io/blog/2015/06/23/to-serialize-or-not-to-serialize-activemodel-serializers/)
+- Read [Using serialize option in Ruby on Rails](http://thelazylog.com/using-serialize-option-in-ruby-on-rails/) 
+    - Write 1 takeaway from each 
+    - turn in on slack
