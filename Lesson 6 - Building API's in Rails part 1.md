@@ -659,6 +659,8 @@ To create a new task, we simply need to add the user to the request body
 
 ## Homework
 
+###**Due 12/12/16**
+
 - Finish the Restaurant API challenge
     - Create a repo in our class GitHub using the naming convention `Restaurant_API_YOUR_TEAM_INITIALS_HERE`
     - each team member should create their own branch
