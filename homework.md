@@ -134,3 +134,27 @@
 - Read [Using serialize option in Ruby on Rails](http://thelazylog.com/using-serialize-option-in-ruby-on-rails/) 
     - Write 1 takeaway from each 
     - turn in on slack
+    
+- - - - 
+
+## Lesson 7 - Building API's in Rails Part 2
+
+###** Due 12/14/16**
+
+- Complete the Restaurant API
+- Read [jwt-auth-in-rails](http://www.thegreatcodeadventure.com/jwt-auth-in-rails-from-scratch/)
+	- follow along with code examples (optional) 
+	- Write about 1 takeaway 
+	- Turn in on slack
+- Read this description of [CORS](https://www.maxcdn.com/one/visual-glossary/cors/)
+	- Write a 1-2 sentence description of CORS in your own words
+	- Turn in on slack
+- Write up at least 2 items for feedback on this entire class
+	- Topics can include: 
+		- What did you like? 
+		- Is there anything you would change
+		- Something that should have been covered more in depth
+		- Something that should have been left out
+		- Something you wish we would have covered
+		- or anything else you can think of   
+
