@@ -139,7 +139,7 @@
 
 ## Lesson 7 - Building API's in Rails Part 2
 
-###** Due 12/14/16**
+###**Due 12/14/16**
 
 - Complete the Restaurant API
 - Read [jwt-auth-in-rails](http://www.thegreatcodeadventure.com/jwt-auth-in-rails-from-scratch/)
